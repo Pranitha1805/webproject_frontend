@@ -1,0 +1,41 @@
+{"events": [{
+    "id":1,
+    "name": "Bibek Upadhayay",
+    "date": "2022-05-08T05:00:00.000+00:00",
+    "timing":["12:45pm","2:00pm"],
+    "venue" : "201,Maxy Hall",
+    "availabilty": true
+},
+{
+    "id":2,
+    "name": "Barun Chandra",
+    "date": "2022-05-08T05:00:00.000+00:00",
+    "timing":["2:45pm","4:00pm"],
+    "venue" : "101,Kaplan Hall",
+    "availabilty": true
+},
+{
+    "id":3,
+    "name": "Amir Esmailpour",
+    "date": "2022-05-09T05:00:00.000+00:00",
+    "timing":["11:15am","1:00pm"],
+    "venue" : "204,Bergami Hall",
+    "availabilty": false
+},
+{
+    "id":4,
+    "name": "Mehdi Mekani",
+    "date": "2022-05-09T05:00:00.000+00:00",
+    "timing":["2:15am","5:00pm"],
+    "venue" : "214,Batrel's Hall",
+    "availabilty": true
+},
+{
+    "id":5,
+    "name": "Luis Rivera",
+    "date": "2022-05-10T05:00:00.000+00:00",
+    "timing":["1:30am","4:00pm"],
+    "venue" : "104,Buckman Hall",
+    "availabilty": false
+}
+]}
